@@ -1,8 +1,16 @@
 # Reservas
 Reservas de teatro hecho en laravel 5.7 
 
-# Descargar y correr los siguientes comandos
+## Requisitos
+* Php 7.1+
+* Composer
 
+## Correr los siguientes comandos
+
+Instalar dependencias con composer
+```
+composer install
+```
 Para crear las tablas necesarias 
 ```
 php artisan migrate
