@@ -27,7 +27,7 @@ Para insertar algunos registros por defecto
 ```
 php artisan db:seed
 ```
-Para correr la applicación y dirigirse a la ruta que se indica en la consola:
+Correr la applicación y dirigirse a la ruta que se indica en la consola:
 ```
 php artisan serve
 ```
