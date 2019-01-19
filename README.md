@@ -7,6 +7,10 @@ Reservas de teatro hecho en laravel 5.7
 
 ## Correr los siguientes comandos
 
+Clonar este repositorio con Git o descargarlo 
+```
+https://github.com/julianmc90/reservas.git
+```
 Instalar dependencias con composer
 ```
 composer install
