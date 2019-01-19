@@ -11,6 +11,14 @@ Instalar dependencias con composer
 ```
 composer install
 ```
+Generar un nuevo hash de seguridad
+```
+php artisan key:generate  
+```
+Limipiar cache
+```
+php artisan cache:clear
+```
 Para crear las tablas necesarias 
 ```
 php artisan migrate
