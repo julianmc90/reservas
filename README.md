@@ -1,6 +1,6 @@
 # Reservas
-Reservas de teatro hecho en laravel 5.7 
-Ubicación del archivo de logs: /storage/logs/reservas.log
+* Reservas de teatro hecho en laravel 5.7 
+* Ubicación del archivo de logs: /storage/logs/reservas.log
 ## Requisitos
 * Php 7.1+
 * Composer
