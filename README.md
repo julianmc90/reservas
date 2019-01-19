@@ -10,6 +10,9 @@ Reservas de teatro hecho en laravel 5.7
 Clonar este repositorio con Git o descargarlo 
 ```
 https://github.com/julianmc90/reservas.git
+
+Crear una base de datos en MySql con el nombre: reservas 
+
 ```
 Instalar dependencias con composer
 ```
